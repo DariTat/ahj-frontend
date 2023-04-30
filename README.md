@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/65ghoc1of7umt4vs?svg=true)](https://ci.appveyor.com/project/DariTat/ahj-frontend)
 # Домашнее задание к занятию "7. Работа с HTTP"
 
 Правила сдачи задания:
